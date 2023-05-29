@@ -1,4 +1,4 @@
-const tag = "[store]";
+const tag = "[Store]";
 
 export default class Store {
   constructor(storage) {
